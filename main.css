@@ -190,7 +190,7 @@ tbody tr:nth-child(even) td{background:var(--paper)}
 .ctaband p{font-size:17px;color:var(--soft);margin:0 auto 24px}
 .ctaband .btn{background:var(--amber);color:var(--navy)}
 footer.site{background:var(--navy);color:var(--soft);padding:54px 0 30px;font-size:14.5px}
-footer.site .wrap.fgrid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:32px}
+footer.site .wrap.fgrid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr 1fr;gap:28px}
 footer.site h2.fh{color:#fff;font-size:16px;margin-bottom:12px;font-family:var(--serif)}
 footer.site a{color:var(--soft);text-decoration:none;display:block;margin-bottom:8px}
 footer.site a:hover{color:#fff}
@@ -253,3 +253,6 @@ main p,main li,main td{overflow-wrap:anywhere}
 .card.has-thumb h3,.card.has-thumb p,.card.has-thumb a.more{margin-left:22px;margin-right:22px}
 .card.has-thumb h3{margin-top:18px}
 .card.has-thumb a.more{display:inline-block;margin-bottom:22px}
+
+.ctarow{margin:22px 0 10px;font-weight:600}
+.pagehead .lead a{color:#fff;text-decoration:underline;text-underline-offset:3px}
